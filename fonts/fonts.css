@@ -1,0 +1,27 @@
+@font-face {
+    font-family: avenir-light;
+    src: url(avenir-light.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: avenir-regular;
+    src: url(avenir-regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: avenir-bold;
+    src: url(avenir-bold.ttf) format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: pacifico-regular;
+    src: url(pacifico-regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
